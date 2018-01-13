@@ -8,7 +8,7 @@ Based on the request for research from: https://openai.com/requests-for-research
 
 Jokes training set from: https://github.com/taivop/joke-dataset
 
-## Some examples
+## Some examples from the model
 
 Starting with "a data scientist"
 ```
